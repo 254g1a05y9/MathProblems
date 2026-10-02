@@ -19,3 +19,5 @@ public class linkedlist{
         System.out.print(y.data);
     }
 }
+
+//final
